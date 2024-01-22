@@ -13,7 +13,7 @@ snake_client.py: Snake game client side <br />
 # Usage
 Run server file first, then connect to the server via the client.
 
-Controls:
+Controls: <br />
 Instead of having the user type in the message it wants to send to the server, each player has a set of predefined messages each associated with the assigned  hotkey of: [‘z’, ‘x’, ‘c’]. <br />
 up: ‘w’ <br />
 down: ‘s’ <br />
